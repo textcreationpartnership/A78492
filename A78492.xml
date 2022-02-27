@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain quæres for the publike good, concerning the avoiding of multitudes of unnecessary orders, delayes, charges and trouble in courts, called, English courts, or, courts of equity.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78492</idno>
+            <idno type="STC">Wing C1737</idno>
+            <idno type="STC">Thomason E394_8</idno>
+            <idno type="STC">ESTC R201623</idno>
+            <idno type="EEBO-CITATION">99862123</idno>
+            <idno type="PROQUEST">99862123</idno>
+            <idno type="VID">114272</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78492)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114272)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E394[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain quæres for the publike good, concerning the avoiding of multitudes of unnecessary orders, delayes, charges and trouble in courts, called, English courts, or, courts of equity.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Leach,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 28th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Courts --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114272:1" rendition="simple:additions"/>
+            <p>CERTAIN QUAERES FOR The Publike Good, CONCERNING The avoiding of multitudes of unneceſ<g ref="char:EOLhyphen"/>ſary Orders, delayes, charges and trouble in Courts, called, Engliſh Courts, <hi>OR,</hi> Courts of Equity.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis Leach.</hi> 1647. <add>June 28<hi rend="sup">th.</hi>
+               </add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114272:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:114272:2"/>
+            <head>Certain Quaeres for the publike good, con<g ref="char:EOLhyphen"/>cerning the avoiding of multitudes of unneceſſary Orders, delayes, charges and trouble in Courts, called, <hi>Engliſh Courts,</hi> or, <hi>Courts of Equity.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas it is and hath been generally repor<g ref="char:EOLhyphen"/>ted that divers have been and uſually are put to divers unneceſſary and exceſ<g ref="char:EOLhyphen"/>ſive charges, by Regiſters, and Enterers, and Writers of Orders, their Deputies, Clerks and Agents in ſuch Courts, and that divers and ſundry unneceſſary Orders have beene made in ſuch Courts, and drawne out much longer then is or hath been neceſſary for Officers only gaines, trou<g ref="char:EOLhyphen"/>bleſome and burthenſome to ſuch Courts and Counſell there, and hurtfull to ſuitors there: and that there hath been ſuch multitudes of ſuch Orders made in ſuch Courts that divers who have followed and proſecuted their cau<g ref="char:EOLhyphen"/>ſes in ſuch Courts, have given long and much attendance before they could procure any Entries or Copies there<g ref="char:EOLhyphen"/>of to be made, by reaſon (as it is thought) of money or rewards given or promiſed to Regiſters, their Deputies, Clerks, Servants, or Agents, to draw up ſuch Orders ſtricter, or to ſome other ſenſe then ſuch Courts did tru<g ref="char:EOLhyphen"/>ly direct and order, under colour whereof divers have re<g ref="char:EOLhyphen"/>ported,
+<pb n="2" facs="tcp:114272:3"/>that many good cauſes have miſcarried, and that in many juſt cauſes much charge, perplexity, trouble and travell hath been to reſort to the Councell in ſuch ſuits, and after to the Chancellour, Judge or Judges, who made the ſame, to have the ſame drawn and entred ac<g ref="char:EOLhyphen"/>cording to the true ſenſe thereof.</p>
+            <p>And whereas it hath been alſo generally reported, that many others (who have not undergone ſuch trouble, per<g ref="char:EOLhyphen"/>plexity and toile, before they have procured or could pro<g ref="char:EOLhyphen"/>cure ſuch Orders to be drawne up, according to the true ſenſe of the Chancellor, Court, Judge, or Judges, who made or pronounced the ſame) have been at great char<g ref="char:EOLhyphen"/>ges in giving large rewards to ſuch Regiſters, their De<g ref="char:EOLhyphen"/>puties or Clerks, (who have agitated therein.) And whereas it is and hath been generally reported, that ſuch Courts have been ſo full of buſineſſe, that many ſuitors could have no proceedings there without great trouble and charge, and that divers before they could have any end of their ſuits there, have ſpent as much or more then that which they have ſued for there hath been in value, beſides their trouble and perplexity of mind for many yeares together, and that divers others by ſuch occaſi<g ref="char:EOLhyphen"/>ons, have been almoſt diſtracted in mind, and others ut<g ref="char:EOLhyphen"/>terly undone, and that others have given over and left good cauſes for loſt, and proceeded no further in them, by reaſon of the extreame charge and trouble, which they have not been able to undergoe after they have been brought into and intangled in ſuit in ſuch Courts, ſome againſt their wills.</p>
+            <p n="1">
+               <pb n="3" facs="tcp:114272:3"/> 1. <hi>Quere.</hi> WHether it be beneficiall and good for the Com<g ref="char:EOLhyphen"/>mon-wealth, that no motion or petition ſhall be made, moved or preferred in or to any ſuch Court, or to any Chancellor, Judge or Judges of the ſame in or concerning any ſuit or cauſe there depending, but that firſt the matter to be mo<g ref="char:EOLhyphen"/>ved or mentioned in ſuch Petition, ſhall be put into writing, and a copie or note thereof delivered to the party Plaintiffe or De<g ref="char:EOLhyphen"/>fendent, againſt or concerning whom ſuch motion or Petition ſhall be made, moved, preferred or delivered, or to his Clerk, Attourney, or Solicitor, in ſuch cauſe or ſuit, or left at his, their, or one of their dwelling houſe or houſes, or place or places of abode, under the hand of a Councellour learned in the Law.</p>
+            <p n="2">2. <hi>Quere.</hi> Whether it be convenient and beneficiall for the Common-wealth, that within ſome convenient time next after the delivery of ſuch note or writing, as aforeſaid, that ſuch par<g ref="char:EOLhyphen"/>ty Plaintiffe or Defendent, his Clerk, Attourney or Solicitors, (to whom ſuch note or writing was delivered, or ſhall be ſo de<g ref="char:EOLhyphen"/>livered) ſhall deliver to or leave as aforeſaid for the other party Plaintiffe or Defendent, (to whom, for whom, or on whoſe be<g ref="char:EOLhyphen"/>halfe ſuch note or writing was or ſhall bee ſo delivered or left) or to his Clerk, Attourney, or Solicitor, an anſwer in writing to ſuch firſt note or writing, or leave the ſame in writing at his, their, or one of their dwelling houſe or houſes, or uſuall place or pla<g ref="char:EOLhyphen"/>ces of abode, and that each party may reply, and the other rejoyn, <hi>&amp;c.</hi> the one party of them after the other of them, in or by ſome ſhort convenient time in writing to be delivered or left as a<g ref="char:EOLhyphen"/>foreſaid, till the doubt of the matter be agreed upon, or put to the queſtion, or ſtated in the nature of a caſe?</p>
+            <p n="3">3. And <hi>Quere.</hi> Whether it be not convenient and beneficiall for the Common-wealth, that if either party, Plaintiffe or Defen<g ref="char:EOLhyphen"/>dent doe not conſent the one party of them to the demand or requeſt of the other of them, that then each party of them who doth or ſhall ſo petition or move, (ſhewing and expreſſing to the other of them ſome reaſon in ſuch writings or notes reſpe<g ref="char:EOLhyphen"/>ctively, for what cauſe or reaſon, by and according to former preſidents or orders, it was and ſhould be requiſite and ne<g ref="char:EOLhyphen"/>ceſſary
+<pb n="4" facs="tcp:114272:4"/>that ſuch the requeſt of him who ſhall ſo petition or move, ought or ſhould be granted) that then and not before either of ſuch parties may petition or move to or in ſuch Court, or to ſuch Chancellor, Judge or Judges for his demand in ſuch his writing or note to be granted, and ſhew forth ſuch notes or writings on either ſide to be read, viewed, and conſidered of in ſuch Courts?</p>
+            <p n="4">4. And <hi>Quere.</hi> If it be not convenient and beneficiall for the Common-wealth if the demand or requeſt of ſuch motion or petition ſhall be granted or ordered againſt ſuch party, Plain<g ref="char:EOLhyphen"/>tiffe or Defendent againſt whom ſuch Petition, motion, or de<g ref="char:EOLhyphen"/>mand is or ſhall be made, (notwithſtanding any thing to the con<g ref="char:EOLhyphen"/>trary thereof to be alledged or expreſſed in his writing ſo de<g ref="char:EOLhyphen"/>livered, or left, or to be delivered, or left) that then ſuch party Plaintiffe or Defendent for not conſenting to ſuch motion, pe<g ref="char:EOLhyphen"/>tition, or demand, or putting into ſuch writing ſo to be delive<g ref="char:EOLhyphen"/>red, or left any vaine or fruvilous matter not materiall againſt ſuch requeſt or demand, ſhall be compelled to pay the other of them the ordinary coſts, charges, and expences, of the other of the ſaid parties, if ſuch motion or Petition be not granted upon ſome matter, for which there was no former order or leading preſident in ſuch like caſe?</p>
+            <p n="5">5. <hi>Quere.</hi> If it be not convenient and beneficiall for the Com<g ref="char:EOLhyphen"/>mon-wealth, that ſuch party (againſt whom ſuch petition or de<g ref="char:EOLhyphen"/>mand ſhall be granted or ordered as aforeſaid, or that ſhall con<g ref="char:EOLhyphen"/>ſent to the demand of ſuch motion or petition of either of ſuch parties, Plaintiffe or Defendent) may be compelled to perform the ſame Petition, demand or order, which ſhall be ſo granted or ordered, or conſented to, without further trouble or charge, under ſome penalty?</p>
+            <p n="6">6. <hi>Quere.</hi> Whether it be convenient and beneficiall for the Common-wealth, to prevent exceſſive charges and troubles occaſioned by Regiſters, and their Clerks, Deputies, and Agents, that ſuch Regiſters, their Clerks, Agents and Deputies, ſhall in and to ſuch note or writing, write what ſuch Court, Chancellor, Judge or Judges thereof do, or ſhall order or adjudge of, or con<g ref="char:EOLhyphen"/>cerning the ſame and no more, without rehearſing or reciting a<g ref="char:EOLhyphen"/>ny of the matters or contents of any ſuch notes or writings:
+<pb n="5" facs="tcp:114272:4"/>and that after if any ſuch parties or either or any of them (with<g ref="char:EOLhyphen"/>in ſome convenient time) ſhall ſet downe in writing under his Counſells hand, &amp; deliver to ſuch Regiſter, his Deputy, Clerk, or Agent, exceptions againſt any part of the writing downe of ſuch order and not otherwiſe, ſuch Regiſters ſhall attend ſuch Chan<g ref="char:EOLhyphen"/>cellor, Judge or Judges, who have made or ſhall make ſuch or<g ref="char:EOLhyphen"/>der or orders, and to alter or amend the ſame, according as ſuch Chancellor, Judge or Judges doe, or ſhall ſigne or write to the ſame, and after to enter ſo much onely in a Book as ſuch Re<g ref="char:EOLhyphen"/>giſter or Regiſters ſhall write, and ſuch Chancellor, Judge or Judges ſo ſigne (if any need of ſuch ſigning be) in or to ſuch writing or writings, with the parties names, and the day when the motion or petition was granted, and to keep ſafely in an Alphabeticall manner ſuch notes or writings, together with the ſubſcription or writing of ſuch note, or writing by ſuch Regiſter, ſigned by ſuch Judge or Judges, for further ſatisfaction of the Court, and either party Plaintiffe or Defendent, or any other concerning the ſame, if need ſhould require: And that Regiſters have onely a competent gaine (according to rates uſually taken in other Courts by ſuch as have deſerved as much as any ſuch Re<g ref="char:EOLhyphen"/>giſter <hi>&amp;c.</hi> deſerve for any thing they have written or done) in like caſe, for what they write, or copie, or doe, and no more.</p>
+            <p n="7">7. Quere. <hi>What right (if they have any at all) have Regiſters, their Clerks or Deputies in ſuch Court, to exact ſuch exceſſive ſees as they have taken, and uſually take in ſuch Courts. And quere, whether it may not be found what ſuch perſons anciently had, if records bee well ſearched and examined?</hi>
+            </p>
+            <p n="8">8. <hi>And</hi> Quere, <hi>if it be not fit to be diſcovered, how and by what degrees from time to time exceſſive ſums of money have been exacted by them, and what lawfull authority (if they have any at all) they have or can ſhew, to receive, challenge, or demand any thing neare ſo much as they have uſually exacted and taken, and what authority they have to hinder the proceedings of juſt Suites till their large de<g ref="char:EOLhyphen"/>mands be given them?</hi>
+            </p>
+            <p n="9">9. Quere. <hi>What reaſon or equitie there is or can be, that ſuch Regiſters, their Clerks, Agents, or Deputies in ſuch Courts, ſhould can or may exact above ten times as much in ſuch Courts, as other Officers of like nature take and receive, and have uſually taken and
+<pb n="6" facs="tcp:114272:5"/>received in other Courts for the like things as they doe or have done?</hi>
+            </p>
+            <p n="10">10. Quere. <hi>Whether delivering notes and writings as aforeſaid each to other, will not avoid many unneceſſary References to Maſters of the Chancery, and other Referrers, and thereby ſave much trouble and expence.</hi>
+            </p>
+            <p n="11">11. Whether it be convenient for the publike good, that e<g ref="char:EOLhyphen"/>very Regiſter, &amp;c. ſhould be choſen out of Clerks, experienced in that way, for their honeſtie, experience, and ability onely, without money or rewards, and that a competent gain only may be allowed him to take entirely to himſelfe without account to any, and whether any but ſuch as have been employed as Regi<g ref="char:EOLhyphen"/>ſters or their Clerks, can well underſtand ſuch Office under a long times practice.</p>
+            <p>Other Quaeres concerning other proceedings in ſuch Courts, and divers other things, ſhortly are intended to bee publiſhed, with additions to divers Quaeres, concerning Bills, Anſwers, Re<g ref="char:EOLhyphen"/>plications, Rejoynders, &amp;c. in ſuch Courts, and taking away the extreme and unneceſſarie charges, troubles, and long delayes in juſt cauſes in ſuch Courts, and abateing thoſe that may be for contention and trouble onely, and the preſervation of many honeſt men from great loſſes, and others from undoing thereby, without hindrance to any but unneceſſary Officers, crept into ſuch Offices without any lawfull authority: and how many hundred thouſand pounds yearely may bee ſaved to the Com<g ref="char:EOLhyphen"/>monwealth by reducing ſuch things, and others written to bee publiſhed to the lawfull proceedings, and taking away the un<g ref="char:EOLhyphen"/>lawfulneſſe thereof, contrived by unlawfull and exacting Offi<g ref="char:EOLhyphen"/>cers for their own only gaine.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
